@@ -1,0 +1,4 @@
+Phishing Case Study:
+Phishing is a deceptive technique where attackers masquerade as a trusted entity to steal sensitive data like login credentials or financial information. It typically begins with an urgent-sounding email or SMS (Smishing) claiming there is an issue with the user's bank account or college portal.
+
+In a realistic scenario for a VIT student, an attacker might send a fake "End-Term Schedule Update" link. When the student clicks, they are taken to a cloned VITyarthi login page. Once the student enters their credentials, the attacker gains full access to their academic records and personal details. The consequences range from identity theft to unauthorized financial transactions if the password is reused for banking. This highlights why students must always verify the URL before entering any private information.
